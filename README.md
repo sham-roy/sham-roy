@@ -1,4 +1,4 @@
-# 👋 Hey there! Sham roy here, ready to modernize things.
+# 👋 Hey there! Sham roy here, ready to modernize things. 
 
 ## 💫 About Me:
 👨🏽‍💻 I work as a developer at Dotcod innovation., focusing on  Next.js development.<br>
