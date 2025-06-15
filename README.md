@@ -1,7 +1,7 @@
 # 👋 Hey there! Sham roy here, ready to modernize things. 
 
 ## 💫 About Me:
-👨🏽‍💻 I work as a developer at Dotcod innovation., focusing on  Next.js development.<br>
+👨🏽‍💻 I work as a developer at Dotcod Innovation, focusing on  Next.js development.<br>
 👥 I'm interested in collaborating on web development projects.<br>
 📚 I'm actively learning front-end development.<br>
 📝 Feel free to ask me anything related to web development.<br>
